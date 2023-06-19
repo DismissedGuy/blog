@@ -11,3 +11,5 @@ Hey there, thanks for dropping by! What you're seeing right now is my first blog
 I am aiming for this place to mostly be about things I find interesting, projects I have been working on or other share-worthy material. If you want to see a post or series about a certain topic, feel free to let me know. I've already got some interesting topics lined up which I am planning to write about.
 
 See you in my second post!
+
+Test edit haha
